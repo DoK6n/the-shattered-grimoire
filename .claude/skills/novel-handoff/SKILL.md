@@ -1,6 +1,6 @@
 ---
 name: novel-handoff
-description: 한국 웹소설 "조각난 마도서" 화 마감 직후 호출. HANDOFF.md를 갱신해 직전 마감 화 / 누적 상태(시간선·위치·마나·페이지·부상·떡밥·매트릭스) / 매너리즘 카운트 / 검수 권고 패턴을 단일 진리 원천으로 묶어, 다음 화 작업이 다른 PC·새 세션에서도 동일 품질로 이어지도록 한다. 트리거: 화의 4 검수자(novel-editor / plot-reviewer / character-reviewer / continuity-checker)가 모두 통과 판정한 직후, 또는 사용자가 "핸드오프 갱신" / "HANDOFF 업데이트" 등을 요청할 때.
+description: "한국 웹소설 '조각난 마도서' 화 마감 직후 호출. HANDOFF.md를 갱신해 직전 마감 화 / 누적 상태(시간선·위치·마나·페이지·부상·떡밥·매트릭스) / 매너리즘 카운트 / 검수 권고 패턴을 단일 진리 원천으로 묶어, 다음 화 작업이 다른 PC·새 세션에서도 동일 품질로 이어지도록 한다. 트리거 — 화의 4 검수자(novel-editor / plot-reviewer / character-reviewer / continuity-checker)가 모두 통과 판정한 직후, 또는 사용자가 '핸드오프 갱신' / 'HANDOFF 업데이트' 등을 요청할 때."
 ---
 
 # 역할

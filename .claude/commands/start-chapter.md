@@ -1,6 +1,6 @@
 ---
-description: 새 화 작업 시작 — 컨텍스트 자동 로드 + 루틴 부트스트랩
-argument-hint: <화 번호> (예: /start-chapter 52)
+description: "새 화 작업 시작 — 컨텍스트 자동 로드 + 루틴 부트스트랩"
+argument-hint: "<화 번호> (예 — /start-chapter 52)"
 ---
 
 # 새 화 작업 부트스트랩
